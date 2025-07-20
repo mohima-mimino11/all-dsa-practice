@@ -1,0 +1,1 @@
+{"name":"Local: suffix_sum","url":"/home/mim/Downloads/dsa-study/Phitron/Data-Structures/Module-31.5/suffix_sum.cpp","tests":[{"id":1751047348938,"input":"4\n1 2 3 4","output":"10 9 7 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mim/Downloads/dsa-study/Phitron/Data-Structures/Module-31.5/suffix_sum.cpp","group":"local","local":true}
