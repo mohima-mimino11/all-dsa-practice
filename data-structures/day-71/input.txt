@@ -1,0 +1,4 @@
+3
+mimino 24 97
+era 12 55
+maliha 3 55
