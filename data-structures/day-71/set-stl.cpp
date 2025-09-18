@@ -18,5 +18,6 @@ int main(){
     cout << "exist" << endl;
   else
     cout << "does not exists" << endl;
+  cout << st.count(90) << endl;
   return 0;
 }
