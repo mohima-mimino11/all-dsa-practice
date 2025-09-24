@@ -12,13 +12,13 @@ class Node{
     this->right = NULL;
   }
 };
-void preorder(Node* root){
+void inOrder(Node* root){
   if(root == NULL){
     return;
   }
-  preorder(root->left);
+  inOrder(root->left);
   cout << root->val << " ";
-  preorder(root->right);
+  inOrder(root->right);
 }
 int main(){
   Node* root = new Node(10);
@@ -34,7 +34,7 @@ int main(){
   b->left = d;
   b->right = e;
 
-  preorder(root);
+  inOrder(root);
   
   return 0;
 }
