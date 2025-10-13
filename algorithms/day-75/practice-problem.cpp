@@ -1,3 +1,9 @@
+/*
+Question: You will be given an undirected graph as input. 
+Then you will be given a query Q. For each query, you will be given source S and destination D. 
+You need to print the shortest distance between S and D. If there is no path from S to D, print -1.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 vector<int> adjList[1005];
